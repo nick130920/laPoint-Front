@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/la-point-front",
+            "outputPath": "/var/www/html/la-point-front",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
